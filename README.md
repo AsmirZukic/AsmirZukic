@@ -31,6 +31,6 @@ To ensure the reliability and correctness of my projects, I utilize the CUnit te
 You can connect with me on various platforms:
 
 - LinkedIn: [Asmir Zukic](https://www.linkedin.com/in/asmir-z-855211228/)
-- Email: [asmir@example.com](mailto:asmir@outlook.com)
+- Email: [asmir.zukic@outlook.com](mailto:asmir@outlook.com)
 
 Let's connect and build amazing things together! 🚀
