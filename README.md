@@ -2,7 +2,7 @@
 # Hi there, I'm Asmir Zukic 👋
 
 ## About Me
-I'm a passionate Software Engineer in Test with a strong interest in Linux and open source projects. I enjoy working on projects that involve graphics and I'm currently diving into the fascinating world of building emulators. With a solid foundation in software engineering and a knack for problem-solving, I strive to create reliable and efficient solutions.
+I'm a passionate Software Engineer with a strong interest in Linux and open source projects. I enjoy working on projects that involve graphics and I'm currently diving into the fascinating world of building emulators. With a solid foundation in software engineering and a knack for problem-solving, I strive to create reliable and efficient solutions.
 
 ## Skills
 - Programming Languages: Python, C++, Java
